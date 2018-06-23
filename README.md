@@ -1,1 +1,2 @@
-# i-dont-care_license
+# The I don't care license
+## Check "LICENSE" file
