@@ -1,3 +1,1 @@
-the ms license : <a href="https://counter.danwin1210.me/visits.php?id=9f761d10f05cbaabeebe33cfd3514f74"><img style="height:24px;width:auto;" src="https://counter.danwin1210.me/counter.gif?id=9f761d10f05cbaabeebe33cfd3514f74&bg=FFFFFF&fg=000000&tr=0&unique=0&mode=0"></a>
-all : <a href="https://danwin1210.me/visits.php?id=6429d0b5b22ec1fe6749f9c9bc3dd6e1"><img style="height:24px;width:auto;" src="https://danwin1210.me/counter.gif?id=6429d0b5b22ec1fe6749f9c9bc3dd6e1&bg=FFFFFF&fg=000000&tr=0&unique=0&mode=0"></img></a>
 # [The Microsoft License](https://github.com/jusdepatate/Microsoft-license/blob/master/LICENSE)
